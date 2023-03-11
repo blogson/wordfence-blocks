@@ -1,0 +1,87 @@
+Artigo original:
+------------------------------
+https://www.blogson.com.br/como-configurar-o-firewall-do-wordfence-seguranca-wordpress/
+Autor: Blogson (Anderson Oliveira)
+
+
+Para usar a lista abaixo:
+------------------------------
+1. Acesse o wp-admin do seu site WordPress
+2. Acesse o menu Wordfence > Firewall
+3. Clique em All Firewall Options
+4. Copie e cole o conteúdo da lista abaixo no campo "Immediately block IPs that access these URLs "
+5. Clique em Save Changes.
+
+
+
+/phpinfo*
+*/shell*
+*/ccx/*
+*/RxR*.php
+*/wlwmanifest.xml
+*/database.php
+*/login.php
+*/Makhdamx.php
+*/radio.php
+*/ok.php
+*/hehehe.php
+*/crypted.php
+*/xleet.php
+*/olux.php
+/*mar.php
+*/shells*
+*/*.sh*
+*/proxy/*
+*/apismtp/*
+*/xleet/*
+*/xleet*/*
+*/zimbra/*
+*/alfacgiapi/*
+*/ALFA_DATA/*
+*/admin.php
+*/upl.php
+*/optim_*.php
+/.env
+/pma
+/new.php
+/root.php
+/ups.php
+/about.php
+/0.php
+/date.php
+/up.php
+/doc.php
+/xx.php
+/xxx.php
+/sh.php
+*/shx.php
+/mini.php
+/wp-admin.php
+*/adminer/*
+/PhpMyAdmin
+/phpmyadmin
+/pma/*
+/-/-/-/-/-/-/-/-/-/-/
+*/-/-/-/-/-/-/-/-/-/-/
+/administrator
+/.aws/credentials
+/cgi-bin/*
+/wp-commentin.php
+/_ignition/*
+/debug/*
+/wp-content/updates.php
+/wp-content/wp.php
+/wp-content/themes/classic/*
+/wp-content/themes/seotheme/*
+/wp-content//themes/pridmag/
+/wp-content/themes/gyjjcrxedo/*
+/wp-content/plugins/handline/*
+/wp-content/plugins/core-builder/*
+/wp-content/plugins/ioptimization/*
+/wp-content/plugins/core-stab/*
+/wp-content/plugins/apikey/*
+/wp-content/plugins/seoplugins/*
+/wp-content/plugins/wp-zzz/wp-sleeeps/*
+/wp-content/plugins/wp-zzz/*
+/wp-content/plugins/opt_*/
+/wp-admin/maint/about.php
