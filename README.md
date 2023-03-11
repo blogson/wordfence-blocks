@@ -1,4 +1,4 @@
-# wordfence-blocks
+# Bloqueios Extras para o Firewall do Wordfence plugin
 Esta é uma lista atualizada periodicamente de bloqueios úteis que podem ser configuradas no plugin de segurança Wordfence para WordPress.
 
 
