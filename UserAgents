@@ -1,3 +1,23 @@
+Descrição:
+------------------------------
+Lista dos user agents mais comuns usados nas varreduras de exploits em sites WordPress.
+
+
+Artigo original:
+------------------------------
+https://www.blogson.com.br/como-configurar-o-firewall-do-wordfence-seguranca-wordpress/
+Autor: Blogson (Anderson Oliveira)
+Recomendo que acesse o artigo em caso de dúvidas.
+
+
+Para usar a lista abaixo:
+------------------------------
+1. Acesse o menu Wordfence > Blocking.
+2. Clique em Custom Pattern.
+3. Preencha os campos Browser User Agent com o nome de um dos agents da lista abaixo.
+4. No campo Block Reason* coloque um texto explicando, algo como “bloqueio”.
+
+
 *Tor*
 *Python*
 *Chrome/5.*
