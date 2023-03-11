@@ -1,3 +1,9 @@
+Descrição:
+------------------------------
+Estas são as urls testadas com mais frequência por exploits. 
+Você pode bloquear automaticamente em seu site WordPress usando o plugin Wordfence e adicionando as configurações abaixo.
+
+
 Artigo original:
 ------------------------------
 https://www.blogson.com.br/como-configurar-o-firewall-do-wordfence-seguranca-wordpress/
