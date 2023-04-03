@@ -63,6 +63,8 @@ Para usar a lista abaixo:
 */shx.php
 /mini.php
 /wp-admin.php
+*/db.php?u=
+*/db.php?*
 */adminer/*
 /PhpMyAdmin
 /phpmyadmin
@@ -91,3 +93,9 @@ Para usar a lista abaixo:
 /wp-content/plugins/wp-zzz/*
 /wp-content/plugins/opt_*/
 /wp-admin/maint/about.php
+*/wp-rate.php
+*/lll.php
+*/wp-resortpark.php
+*/wp-rate.zip
+*/lll.zip
+*/wp-resortpark.zip
